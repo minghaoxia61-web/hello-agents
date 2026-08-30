@@ -219,3 +219,8 @@
 ## 📜 开源协议
 
 本作品采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
+
+
+## AI Reviewer Demo
+
+This is a test edit by the ai-pr-reviewer bot to verify the end-to-end flow.
